@@ -2,7 +2,7 @@
 
 
 
-## Contents
+## Contenido
 1. [Introducción](#introducción)
 2. [Solución](#solución)
 
