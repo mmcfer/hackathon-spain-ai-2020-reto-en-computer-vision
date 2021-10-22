@@ -3,8 +3,8 @@
 
 
 ## Contents
-1. [Introducción](#introduction)
-2. [Solución](#train)
+1. [Introducción](#introducción)
+2. [Solución](#solución)
 
 ## Introducción
 Demuestra tus habilidades como Data Scientist en el reto de Computer Vision
