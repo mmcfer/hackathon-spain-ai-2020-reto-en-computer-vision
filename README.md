@@ -97,3 +97,4 @@ Yuanfei Huang, Jie Li, Xinbo Gao*, Yanting Hu and Wen Lu, "Interpretable Detail-
 
 [arXiv](https://arxiv.org/abs/2009.13134)
 
+https://github.com/YuanfeiHuang/DeFiAN
