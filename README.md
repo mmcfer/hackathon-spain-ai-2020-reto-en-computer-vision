@@ -1,5 +1,12 @@
-﻿# Hackathon Spain-ai 2020  ----- Reto en computer vision ----- SuperResolution
+﻿# Hackathon Spain-ai 2020  - Reto en computer vision - SuperResolution
 
+
+
+## Contents
+1. [Introducción](#introduction)
+2. [Solución](#train)
+
+## Introducción
 Demuestra tus habilidades como Data Scientist en el reto de Computer Vision
 
 
@@ -79,3 +86,14 @@ Si hay cualquier punto que creas que es confuso, puedes escribirnos a info@spain
 # ¿Cuales son las bases del hackathon?
 Los términos y condiciones generales para participar en el hackathon son muy similares a los de otras plataformas, si quieres leerlas, puedes hacerlo en esta página.
 Si no quieres leer todo el documento de términos y condiciones, lo más importante es que no hagas trampas, y que tengas en cuenta que a los ganadores con opción a premio puede que se les solicite el código para validar la solución, aunque este punto dependerá de la empresa que haya compartido el dataset del reto, como condición para reconocerle formalmente ganador.
+
+## Solución
+
+Basada a partir del paper:
+
+Yuanfei Huang, Jie Li, Xinbo Gao*, Yanting Hu and Wen Lu, "Interpretable Detail-Fidelity Attention Network for Single Image Super-Resolution", IEEE Transactions on Image Processing (TIP), vol.30, pp.2325-2339, 2021.
+
+[TIP](https://ieeexplore.ieee.org/document/9334407)
+
+[arXiv](https://arxiv.org/abs/2009.13134)
+
